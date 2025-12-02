@@ -10,19 +10,19 @@
 ```
 linux-server-automation-setup/
 │
-├── level-1-basic/
+├── basic/
 │   ├── create_group_users.sh
 │   ├── set_permissions.sh
 │   ├── install_packages.sh
 │   └── system_info.sh
 │
-├── level-2-intermediate/
+├── intermediate/
 │   ├── automate_backup.sh
 │   ├── log_cleanup.sh
 │   ├── check_service_status.sh
 │   └── performance_monitor.sh
 │
-└── level-3-advanced/
+└── advanced/
     ├── custom_systemd_service.sh
     ├── ssh_hardening.sh
     ├── lvm_setup.sh
