@@ -8,7 +8,7 @@
 ## ✅ Project Structure 
 
 ```
-linux-server-automation/
+linux-server-setup/
 │
 ├── basic/
 │   ├── create_users.sh
