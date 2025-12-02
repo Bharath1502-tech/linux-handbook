@@ -8,7 +8,7 @@
 ## ✅ Project Structure 
 
 ```
-linux-server-setup/
+linux-server-automation-setup/
 │
 ├── level-1-basic/
 │   ├── create_group_users.sh
