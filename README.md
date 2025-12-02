@@ -11,7 +11,7 @@
 linux-server-setup/
 │
 ├── level-1-basic/
-│   ├── create_users.sh
+│   ├── create_group_users.sh
 │   ├── set_permissions.sh
 │   ├── install_packages.sh
 │   └── system_info.sh
